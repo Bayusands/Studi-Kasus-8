@@ -1,0 +1,9 @@
+Data Toko Sembako 
+ID               NAMA               HARGA
+100              Beras              Rp.45.000
+210              Gula               Rp.11.000
+330              Garam              Rp.10.000
+560              Gas LPG            Rp.20.000
+741              Bumbu Dapur        Rp.5.500
+805              Es Batu            Rp.100.000
+998              Air Galon          Rp.20.500
